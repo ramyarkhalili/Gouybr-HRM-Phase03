@@ -94,3 +94,8 @@ table {
     direction: rtl !important;
     text-align: right !important;
 }
+
+.header-section-number{
+    direction: rtl !important;
+    text-align: right !important;
+}
